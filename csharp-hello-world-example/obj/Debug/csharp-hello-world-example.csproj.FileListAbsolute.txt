@@ -1,0 +1,10 @@
+C:\Users\Hac Kerton\source\repos\csharp-hello-world-example\csharp-hello-world-example\obj\Debug\csharp_hello_world_example.Properties.Resources.resources
+C:\Users\Hac Kerton\source\repos\csharp-hello-world-example\csharp-hello-world-example\obj\Debug\csharp-hello-world-example.csproj.GenerateResource.Cache
+C:\Users\Hac Kerton\source\repos\csharp-hello-world-example\csharp-hello-world-example\obj\Debug\csharp-hello-world-example.csproj.CoreCompileInputs.cache
+C:\Users\Hac Kerton\source\repos\csharp-hello-world-example\csharp-hello-world-example\bin\Debug\csharp-hello-world-example.exe.config
+C:\Users\Hac Kerton\source\repos\csharp-hello-world-example\csharp-hello-world-example\bin\Debug\csharp-hello-world-example.exe
+C:\Users\Hac Kerton\source\repos\csharp-hello-world-example\csharp-hello-world-example\bin\Debug\csharp-hello-world-example.pdb
+C:\Users\Hac Kerton\source\repos\csharp-hello-world-example\csharp-hello-world-example\obj\Debug\csharp-hello-world-example.exe
+C:\Users\Hac Kerton\source\repos\csharp-hello-world-example\csharp-hello-world-example\obj\Debug\csharp-hello-world-example.pdb
+C:\Users\Hac Kerton\source\repos\csharp-hello-world-example\csharp-hello-world-example\obj\Debug\csharp_hello_world_example.Form1.resources
+C:\Users\Hac Kerton\source\repos\csharp-hello-world-example\csharp-hello-world-example\obj\Debug\csharp-hello-world-example.csprojResolveAssemblyReference.cache
